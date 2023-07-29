@@ -1,0 +1,9 @@
+Enter The Employee Id : 
+The Id Of The Employee Is : 56 And This Is The Employee number : 1
+The Value Of The Count Is : 1
+Enter The Employee Id : 
+The Id Of The Employee Is : 42 And This Is The Employee number : 2
+The Value Of The Count Is : 2
+Enter The Employee Id : 
+The Id Of The Employee Is : 15863328 And This Is The Employee number : 3
+The Value Of The Count Is : 3
