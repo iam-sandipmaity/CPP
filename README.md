@@ -33,8 +33,8 @@ C-Practice-Questions/
 
 1️⃣ **Clone this repository**  
    ```bash
-   git clone https://github.com/iam-sandipmaity/C-Practice-Questions.git
-   cd C-Practice-Questions
+   git clone https://github.com/iam-sandipmaity/CPP.git
+   cd CPP
    ```
 2️⃣ **Browse through folders** and choose a problem to tackle.  
 3️⃣ **Write and compile your C++ programs** using g++:  
